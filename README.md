@@ -40,6 +40,7 @@ I build web platforms, backends, and mobile apps, with a focus on Arabic-first /
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-699dc9?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 **Mobile & Desktop**
@@ -59,7 +60,7 @@ I build web platforms, backends, and mobile apps, with a focus on Arabic-first /
 
 | Area | What I do |
 |---|---|
-| **Backend Development** | REST APIs, authentication & role-based access control, database design and migrations with Laravel, NestJS, and Prisma |
+| **Backend Development** | REST APIs, authentication & role-based access control, database design and migrations with Laravel, NestJS, and PostgreSQL Prisma |
 | **Frontend Development** | Responsive, component-based UIs with React and Next.js, including animations (GSAP) |
 | **Arabic / RTL Interfaces** | Arabic-first layouts, bilingual support, RTL-aware components and typography |
 | **Mobile Development** | Cross-platform apps with Flutter, including background services and GPS tracking |
@@ -81,7 +82,7 @@ I build web platforms, backends, and mobile apps, with a focus on Arabic-first /
 Built for a university client, so the source code and data are private. The overview repository explains the architecture, my role, and the tech stack.
 
 - Role-based system for administrators, staff, and students
-- NestJS + Prisma backend, React + MUI dashboard, Flutter student web app
+- NestJS + PostgreSQL Prisma backend, React + MUI dashboard, Flutter student web app
 - Custom Arabic RTL WordPress theme for the public website
 - Dockerized deployment with automated CI/CD
 
